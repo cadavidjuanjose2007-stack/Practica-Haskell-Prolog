@@ -6,8 +6,8 @@
 
 ## Integrantes del equipo
 
-- Sebastián Quintero
-- Juan José Cadavid
+- Sebastián Quintero squinterp3@eafit.edu.co
+- Juan José Cadavid jjcadavidc@eafit.edu.co
 
 ## Entorno de desarrollo
 
